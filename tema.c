@@ -60,22 +60,22 @@ void AddBook(Tree t1, Tree t2, char *buffer)
         AddT2(t2, b);
 }
 
-void AutocompleteAux(Tree t1, int ct)
+void AutocompleteBookAux(Tree t1, int *ct)
 {
-    if (ct >= 3)
+    if (*ct >= 3)
         return;
     if (t1->info != NULL) {
-        ct++;
+        (*ct)++;
         Book *b = t1->info;
         printf("%s\n", b->title);
     }
     for (int i = 0; i < 68; ++i)
         if (t1->cv[i] != NULL) {
-            AutocompleteAux(t1->cv[i], ct);
+            AutocompleteBookAux(t1->cv[i], ct);
         }
 }
 
-void AutocompleteBook(Tree t1, char *title)
+void AutocompleteBook(Tree t1, char *title, int c)
 {
     title[strlen(title) - 1] = '\0';
     int i = 0;
@@ -87,7 +87,8 @@ void AutocompleteBook(Tree t1, char *title)
         }
         i++;
     }
-    AutocompleteAux(t1, 0);
+    int ct = c;
+    AutocompleteBookAux(t1, &ct);
 }
 
 void SearchBook(Tree t1, char *buffer)
@@ -97,7 +98,7 @@ void SearchBook(Tree t1, char *buffer)
         title[strlen(title) - 1] = '\0';
     // printf("[%s]\n", title);
     if (title[strlen(title) - 1] == '~') {
-        AutocompleteBook(t1, title);
+        AutocompleteBook(t1, title, 0);
         return;
     }
     int i = 0;
@@ -114,6 +115,119 @@ void SearchBook(Tree t1, char *buffer)
         printf("Informatii recomandare: %s, %s, %d, %d\n", b->title, b->author, b->rating, b->pages);
     else
         printf("Cartea %s nu exista in recomandarile tale.\n", title);
+}
+
+void AutocompleteListAuthorAux(Tree t2, int *ct, char *author)
+{
+    if (*ct >= 3)
+        return;
+    if (t2->info != NULL) {
+        (*ct)++;
+        printf("%s\n", author);
+    }
+    char aut[51];
+    strcpy(aut, author);
+    strcat(aut, " ");
+
+    for (int i = 0; i < 68; ++i) {
+        aut[strlen(aut) - 1] = alphabet[i];
+        // printf("[%s]\n", aut);
+        if (t2->cv[i] != NULL) {
+            AutocompleteListAuthorAux(t2->cv[i], ct, aut);
+        }
+    }
+}
+
+void AutocompleteListAuthor(Tree t2, char *author)
+{
+    author[strlen(author) - 1] = '\0';
+    int i = 0;
+    while (author[i] != '\0') {
+        t2 = t2->cv[LexicoPos(author[i])];
+        if (t2 == NULL) {
+            printf("Niciun autor gasit.\n");
+            return;
+        }
+        i++;
+    }
+    int ct = 0;
+    AutocompleteListAuthorAux(t2, &ct, author);
+}
+
+void ListAuthor(Tree t2, char *buffer)
+{
+    char *author = buffer;
+    if (author[strlen(author) - 1] == '\n')
+        author[strlen(author) - 1] = '\0';
+    if (author[strlen(author) - 1] == '~') {
+        AutocompleteListAuthor(t2, author);
+        return;
+    }
+    int i = 0;
+    while (author[i] != '\0') {
+        t2 = t2->cv[LexicoPos(author[i])];
+        if (t2 == NULL) {
+            printf("Autorul %s nu face parte din recomandarile tale.\n", author);
+            return;
+        }
+        i++;
+    }
+    Tree t1 = t2->info;
+    if (t1 != NULL) {
+        char title[2] = "~";
+        AutocompleteBook(t1, title, -100);
+    }
+    else
+        printf("Autorul %s nu face parte din recomandarile tale.\n", author);
+}
+
+void AcSBA(Tree t2, char *author, char *title)
+{
+    int i = 0;
+    while (author[i] != '\0') {
+        t2 = t2->cv[LexicoPos(author[i])];
+        if (t2 == NULL) {
+            printf("Autorul %s nu face parte din recomandarile tale.\n", author);
+            return;
+        }
+        i++;
+    }
+    Tree t1 = t2->info;
+    if (t1 != NULL) {
+        AutocompleteBook(t1, title, 0);
+    }
+}
+
+void SearchByAuthor(Tree t2, char *buffer)
+{
+    char *author = strtok(buffer, ":"), *title = strtok(NULL, ":");
+    if (author[strlen(author) - 1] == '\n')
+        author[strlen(author) - 1] = '\0';
+    if (author[strlen(author) - 1] == '~') {
+        AutocompleteListAuthor(t2, author);
+        return;
+    }
+    if (title[strlen(title) - 1] == '~') {
+        AcSBA(t2, author, title);
+        return;
+    }
+
+    int i = 0;
+    while (author[i] != '\0') {
+        t2 = t2->cv[LexicoPos(author[i])];
+        if (t2 == NULL) {
+            printf("Autorul %s nu face parte din recomandarile tale.\n", author);
+            return;
+        }
+        i++;
+    }
+    Tree t1 = t2->info;
+    if (t1 != NULL) {
+        SearchBook(t1, title);
+    }
+    else
+        printf("Autorul %s nu face parte din recomandarile tale.\n", author);
+
 }
 
 void FreeTreeBooks(Tree t1, int subtree)
@@ -164,6 +278,10 @@ int main(int argc, char *argv[])
             AddBook(t1, t2, buffer + cursor);
         } else if (!strcmp(command, "search_book")) {
             SearchBook(t1, buffer + cursor);
+        } else if (!strcmp(command, "list_author")) {
+            ListAuthor(t2, buffer + cursor);
+        } else if (!strcmp(command, "search_by_author")) {
+            SearchByAuthor(t2, buffer + cursor);
         }
 	}
 	fclose(fin);
