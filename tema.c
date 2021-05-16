@@ -116,7 +116,8 @@ void SearchBook(Tree t1, char *title)
     }
     Book *b = t1->info;
     if (b != NULL)
-        printf("Informatii recomandare: %s, %s, %d, %d\n", b->title, b->author, b->rating, b->pages);
+        printf("Informatii recomandare: %s, %s, %d, %d\n",\
+        b->title,b->author, b->rating, b->pages);
     else
         printf("Cartea %s nu exista in recomandarile tale.\n", title);
 }
@@ -173,7 +174,8 @@ void ListAuthor(Tree t2, char *buffer)
     while (author[i] != '\0') {
         t2 = t2->cv[LexicoPos(author[i])];
         if (t2 == NULL) {
-            printf("Autorul %s nu face parte din recomandarile tale.\n", author);
+            printf("Autorul %s nu face parte din recomandarile tale.\n",\
+            author);
             return;
         }
         i++;
@@ -194,7 +196,8 @@ void AutocompleteSBA(Tree t2, char *author, char *title)
     while (author[i] != '\0') {
         t2 = t2->cv[LexicoPos(author[i])];
         if (t2 == NULL) {
-            printf("Autorul %s nu face parte din recomandarile tale.\n", author);
+            printf("Autorul %s nu face parte din recomandarile tale.\n",\
+            author);
             return;
         }
         i++;
@@ -224,7 +227,8 @@ void SearchByAuthor(Tree t2, char *buffer)
     while (author[i] != '\0') {
         t2 = t2->cv[LexicoPos(author[i])];
         if (t2 == NULL) {
-            printf("Autorul %s nu face parte din recomandarile tale.\n", author);
+            printf("Autorul %s nu face parte din recomandarile tale.\n",\
+            author);
             return;
         }
         i++;
@@ -268,11 +272,6 @@ void DeleteBookFA(Tree *t2, Book *b)
     }
 }
 
-//ma duc recursiv pana in nodul care tine informatia cartii.
-//verific daca nodul de dupa el e null. daca nu e null, am terminat.
-//daca nodul de dupa el e null, sterg si nodul curent si cand o iau
-//inapoi in recursivitate, daca s-a sters nodul precent si cel curent
-//nu tine nicio carte, il sterg si pe cel curent
 /*parcurg toate nodurile care duc la cartea cu titlul title si le sterg daca
 ele conduc doar catre cartea care trebuie stearsa*/
 int DeleteBookAux(Tree *t1, Tree *t2, char *title, int nested)
@@ -302,7 +301,8 @@ int DeleteBookAux(Tree *t1, Tree *t2, char *title, int nested)
     if ((*t1)->cv[LexicoPos(title[0])] == NULL)
         return -1;
 
-    int rez = DeleteBookAux(&((*t1)->cv[LexicoPos(title[0])]), t2, title + 1, nested);
+    int rez = DeleteBookAux(&((*t1)->cv[LexicoPos(title[0])]),\
+    t2, title + 1, nested);
     if (rez == -1)
         return -1;
 
