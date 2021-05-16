@@ -17,6 +17,7 @@ Book *InitBook(char *title, char *author, int rating, int pages)
     return b;
 }
 
+//adauga o carte in arborele de carti
 int AddT1(Tree t1, Book *b)
 {
     int i = 0;
@@ -35,6 +36,7 @@ int AddT1(Tree t1, Book *b)
     return 1;
 }
 
+//adauga o carte in arborele unui autor
 void AddT2(Tree t2, Book *b)
 {
     int i = 0;
@@ -49,6 +51,7 @@ void AddT2(Tree t2, Book *b)
     AddT1(t2->info, b);
 }
 
+//adauga o carte in cei doi arbori
 void AddBook(Tree t1, Tree t2, char *buffer)
 {
     char *title = strtok(buffer, ":"), *author = strtok(NULL, ":");
@@ -60,6 +63,7 @@ void AddBook(Tree t1, Tree t2, char *buffer)
         AddT2(t2, b);
 }
 
+//afiseaza cartile din subarborele t1
 void AutocompleteBookAux(Tree t1, int *ct)
 {
     if (*ct >= 3)
@@ -75,12 +79,13 @@ void AutocompleteBookAux(Tree t1, int *ct)
         }
 }
 
-void AutocompleteBook(Tree t1, char *title, int c)
+//afiseaza cartile al caror titlu incepe cu prefixul prefix
+void AutocompleteBook(Tree t1, char *prefix, int c)
 {
-    title[strlen(title) - 1] = '\0';
+    prefix[strlen(prefix) - 1] = '\0';
     int i = 0;
-    while (title[i] != '\0') {
-        t1 = t1->cv[LexicoPos(title[i])];
+    while (prefix[i] != '\0') {
+        t1 = t1->cv[LexicoPos(prefix[i])];
         if (t1 == NULL) {
             printf("Nicio carte gasita.\n");
             return;
@@ -91,12 +96,11 @@ void AutocompleteBook(Tree t1, char *title, int c)
     AutocompleteBookAux(t1, &ct);
 }
 
-void SearchBook(Tree t1, char *buffer)
+//cauta o carte dupa titlu sau dupa un prefix al titlului
+void SearchBook(Tree t1, char *title)
 {
-    char *title = buffer;
     if (title[strlen(title) - 1] == '\n')
         title[strlen(title) - 1] = '\0';
-    // printf("[%s]\n", title);
     if (title[strlen(title) - 1] == '~') {
         AutocompleteBook(t1, title, 0);
         return;
@@ -117,6 +121,7 @@ void SearchBook(Tree t1, char *buffer)
         printf("Cartea %s nu exista in recomandarile tale.\n", title);
 }
 
+//afiseaza primii 3 autori din subarborele t2
 void AutocompleteListAuthorAux(Tree t2, int *ct, char *author)
 {
     if (*ct >= 3)
@@ -131,19 +136,19 @@ void AutocompleteListAuthorAux(Tree t2, int *ct, char *author)
 
     for (int i = 0; i < 68; ++i) {
         aut[strlen(aut) - 1] = alphabet[i];
-        // printf("[%s]\n", aut);
         if (t2->cv[i] != NULL) {
             AutocompleteListAuthorAux(t2->cv[i], ct, aut);
         }
     }
 }
 
-void AutocompleteListAuthor(Tree t2, char *author)
+//afiseaza numele autorilor care incep cu prefix~
+void AutocompleteListAuthor(Tree t2, char *prefix)
 {
-    author[strlen(author) - 1] = '\0';
+    prefix[strlen(prefix) - 1] = '\0';
     int i = 0;
-    while (author[i] != '\0') {
-        t2 = t2->cv[LexicoPos(author[i])];
+    while (prefix[i] != '\0') {
+        t2 = t2->cv[LexicoPos(prefix[i])];
         if (t2 == NULL) {
             printf("Niciun autor gasit.\n");
             return;
@@ -151,9 +156,10 @@ void AutocompleteListAuthor(Tree t2, char *author)
         i++;
     }
     int ct = 0;
-    AutocompleteListAuthorAux(t2, &ct, author);
+    AutocompleteListAuthorAux(t2, &ct, prefix);
 }
 
+//afiseaza cartile unui autor sau numele autorilor care incep cu un prefix~
 void ListAuthor(Tree t2, char *buffer)
 {
     char *author = buffer;
@@ -181,7 +187,8 @@ void ListAuthor(Tree t2, char *buffer)
         printf("Autorul %s nu face parte din recomandarile tale.\n", author);
 }
 
-void AcSBA(Tree t2, char *author, char *title)
+//afiseaza carti din arborele autorului al caror titlu incepe cu prefixul title
+void AutocompleteSBA(Tree t2, char *author, char *title)
 {
     int i = 0;
     while (author[i] != '\0') {
@@ -198,6 +205,7 @@ void AcSBA(Tree t2, char *author, char *title)
     }
 }
 
+//cauta cartea cu un titlu anume al unui autor anume, dupa titlu sau prefix
 void SearchByAuthor(Tree t2, char *buffer)
 {
     char *author = strtok(buffer, ":"), *title = strtok(NULL, ":");
@@ -208,7 +216,7 @@ void SearchByAuthor(Tree t2, char *buffer)
         return;
     }
     if (title[strlen(title) - 1] == '~') {
-        AcSBA(t2, author, title);
+        AutocompleteSBA(t2, author, title);
         return;
     }
 
@@ -222,26 +230,124 @@ void SearchByAuthor(Tree t2, char *buffer)
         i++;
     }
     Tree t1 = t2->info;
-    if (t1 != NULL) {
+    if (t1 != NULL)
         SearchBook(t1, title);
-    }
     else
         printf("Autorul %s nu face parte din recomandarile tale.\n", author);
 
 }
 
+/*sterge cartea din arborele de carti al autorului si apoi autorul daca nu mai
+are carti*/
+void DeleteBookFA(Tree *t2, Book *b)
+{
+    if (b == NULL)
+        return;
+    Tree t = *t2;
+    int i = 0;
+    while (b->author[i] != '\0') {
+        t = t->cv[LexicoPos(b->author[i])];
+        i++;
+        if (t == NULL)
+            return;
+    }
+    Tree t1 = t->info;
+    if (t1 != NULL) {
+        char author[51];
+        int isvoid = 1;
+        strcpy(author, b->author);
+        DeleteBookAux(&t1, t2, b->title, 1);
+        if (t1 != NULL)
+            for (int i = 0; i < 68; ++i)
+                if (t1->cv[i] != NULL) {
+                    isvoid = 0;
+                    break;
+                }
+        if (isvoid)
+            DeleteBookAux(t2, t2, author, 1);
+    }
+}
+
+//ma duc recursiv pana in nodul care tine informatia cartii.
+//verific daca nodul de dupa el e null. daca nu e null, am terminat.
+//daca nodul de dupa el e null, sterg si nodul curent si cand o iau
+//inapoi in recursivitate, daca s-a sters nodul precent si cel curent
+//nu tine nicio carte, il sterg si pe cel curent
+/*parcurg toate nodurile care duc la cartea cu titlul title si le sterg daca
+ele conduc doar catre cartea care trebuie stearsa*/
+int DeleteBookAux(Tree *t1, Tree *t2, char *title, int nested)
+{
+    if (*title == '\0') {
+        if (!nested) {
+            Book *b = (*t1)->info;
+            if (b == NULL)
+                return -1;
+            DeleteBookFA(t2, b);
+            free((*t1)->info);
+            (*t1)->info = NULL;
+        }
+        int end = 1;
+        for (int i = 0; i < 68; ++i)
+            if ((*t1)->cv[i] != NULL) {
+                end = 0;
+                break;
+            }
+        if (end) {
+            free(*t1);
+            *t1 = NULL;
+        }
+        return end;
+    }
+
+    if ((*t1)->cv[LexicoPos(title[0])] == NULL)
+        return -1;
+
+    int rez = DeleteBookAux(&((*t1)->cv[LexicoPos(title[0])]), t2, title + 1, nested);
+    if (rez == -1)
+        return -1;
+
+    if ((*t1)->info == NULL && rez) {
+        int end = 1;
+        for (int i = 0; i < 68; ++i)
+            if ((*t1)->cv[i] != NULL) {
+                end = 0;
+                break;
+            }
+
+        if (end) {
+            free(*t1);
+            *t1 = NULL;
+        }
+        return end;
+    }
+    return 0;
+}
+
+//sterg cartea cu titlul title din arborele de carti si din cel al autorului
+void DeleteBook(Tree *t1, Tree *t2, char *title)
+{
+    if (title[strlen(title) - 1] == '\n')
+        title[strlen(title) - 1] = '\0';
+    if (DeleteBookAux(t1, t2, title, 0) == -1)
+        printf("Cartea %s nu exista in recomandarile tale.\n", title);
+}
+
+//elibereaza memoria arborelui de carti
 void FreeTreeBooks(Tree t1, int subtree)
 {
     for (int i = 0; i < 68; ++i)
         if (t1->cv[i] != NULL) {
             FreeTreeBooks(t1->cv[i], subtree);
         }
-    if (!subtree)
+    if (!subtree) {
         free(t1->info);
+        t1->info = NULL;
+    }
     free(t1);
     t1 = NULL;
 }
 
+//elibereaza memoria arborelui de autori
 void FreeTreeAuthors(Tree t2)
 {
     for (int i = 0; i < 68; ++i)
@@ -254,6 +360,7 @@ void FreeTreeAuthors(Tree t2)
     t2 = NULL;
 }
 
+//elibereaza memoria ramasa inca alocata
 void FreeAll(Tree t1, Tree t2)
 {
     FreeTreeBooks(t1, 0);
@@ -271,7 +378,7 @@ int main(int argc, char *argv[])
 	char buffer[N_LENGTH * 3], command[N_LENGTH];
 
 	while (fgets(buffer, sizeof(buffer), fin)) {
-		//in cazul in care sunt linii libere gen "\n" in input:
+		//in cazul in care sunt linii libere in input:
 		if (sscanf(buffer, "%s %n", command, &cursor) < 1)
 			continue;
         if (!strcmp(command, "add_book")) {
@@ -282,10 +389,11 @@ int main(int argc, char *argv[])
             ListAuthor(t2, buffer + cursor);
         } else if (!strcmp(command, "search_by_author")) {
             SearchByAuthor(t2, buffer + cursor);
+        } else if (!strcmp(command, "delete_book")) {
+            DeleteBook(&t1, &t2, buffer + cursor);
         }
 	}
 	fclose(fin);
     FreeAll(t1, t2);
-    // PrintAll(t1, t2);
 	return 0;
 }

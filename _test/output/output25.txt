@@ -232,6 +232,29 @@ Informatii recomandare: Charlotte's Web, E.B. White, 4, 179
 Cartea Purgatorio - The Divine Comedy no 2 nu exista in recomandarile tale.
 Autorul Ayn Rand nu face parte din recomandarile tale.
 Autorul John Piper nu face parte din recomandarile tale.
+Cartea The Chronicles of Riddick nu exista in recomandarile tale.
+Cartea A Theory of Semiotics nu exista in recomandarile tale.
+Cartea Half a Life nu exista in recomandarile tale.
+Cartea The Adversary - Saga of Pliocene Exile no 4 nu exista in recomandarile tale.
+Cartea Drowning Ruth nu exista in recomandarile tale.
+Cartea China and Japan - Myths and Legends nu exista in recomandarile tale.
+Cartea The Homecoming nu exista in recomandarile tale.
+Cartea Bellwether nu exista in recomandarile tale.
+Cartea The Visual Arts - A History nu exista in recomandarile tale.
+Cartea Arthur and the Lost Kingdoms nu exista in recomandarile tale.
+Cartea PHP and MySQL For Dummies nu exista in recomandarile tale.
+Cartea Where the Sidewalk Ends - Poems and Drawings nu exista in recomandarile tale.
+Cartea Ultimate Spider-Man Volume 7 nu exista in recomandarile tale.
+Cartea My War Gone by I Miss It So nu exista in recomandarile tale.
+Cartea Der Gesang Des Meeres. Beach Music nu exista in recomandarile tale.
+Cartea Secret Identity - Lost no 2 nu exista in recomandarile tale.
+Cartea Bengal Nights nu exista in recomandarile tale.
+Cartea To Battle the Gods - Jalav Amazon Warrior no 5 nu exista in recomandarile tale.
+Cartea More Classic Italian Cooking nu exista in recomandarile tale.
+Cartea All I Want is Everything - Gossip Girl no 3 nu exista in recomandarile tale.
+Cartea More Classic Italian Cooking nu exista in recomandarile tale.
+Cartea Adventures of Huckleberry Finn nu exista in recomandarile tale.
+Cartea My Wicked Pirate nu exista in recomandarile tale.
 Autorul James Lamar Roberts nu face parte din recomandarile tale.
 Frost
 The Bacchae and Other Plays
@@ -243,10 +266,8 @@ Of Tender Sin
 Autorul Kathleen Eschenburg nu face parte din recomandarile tale.
 Autorul Barry Eisler nu face parte din recomandarile tale.
 Autorul Gavin Baddeley nu face parte din recomandarile tale.
-Fear Nothing - Moonlight Bay no 1
 Intensity
 Shattered
-Velocity
 Autorul Jules Verne nu face parte din recomandarile tale.
 Ghost Story
 Autorul Patrick McGrath nu face parte din recomandarile tale.
@@ -257,14 +278,13 @@ Heartsnatcher
 Autorul Elwood Reid nu face parte din recomandarile tale.
 Autorul Daniel Goleman nu face parte din recomandarile tale.
 Black Wind - Dirk Pitt no 18
-The Navigator - NUMA Files no 7
 Autorul Thomas Harris nu face parte din recomandarile tale.
 Holes
 Autorul Jim Butcher nu face parte din recomandarile tale.
 Autorul T.Z. Lavine nu face parte din recomandarile tale.
 Autorul Elizabeth Silverthorne nu face parte din recomandarile tale.
 When We Were Orphans
-Modern Classics of Science Fiction
+Autorul Gardner Dozois nu face parte din recomandarile tale.
 Fragments
 The Realm of Possibility
 Autorul David B. nu face parte din recomandarile tale.
@@ -307,7 +327,6 @@ Mystery Walk
 The Burgess Bird Book for Children
 The Neil Gaiman Audio Collection
 Hunting the Hunter - On the Run no 6
-More Classic Italian Cooking
 Mortal Fear
 Cold As Ice - Ice no 2
 Nicio carte gasita.
@@ -318,7 +337,7 @@ Nicio carte gasita.
 The Curious Incident of the Dog In the Night-time
 The Listener's Bible - NIV
 Downfall - Dragonlance - Dhamon Saga no 1
-Desert Children
+Nicio carte gasita.
 Theater Shoes - Shoes no 4
 There Was a Cold Lady Who Swallowed Some Snow!
 These Happy Golden Years - Little House no 8
@@ -333,10 +352,9 @@ Swann's Way - In Search of Lost Time no 1
 Nicio carte gasita.
 My Year of Meats
 Nicio carte gasita.
-Lullabies for Little Criminals
 Lullaby Town - Elvis Cole no 3
 My Gal Sunday
-China and Japan - Myths and Legends
+Nicio carte gasita.
 Don Quixote
 Nicio carte gasita.
 Nicio carte gasita.
@@ -377,7 +395,7 @@ Nicole Krauss
 Isaac Asimov
 Janet Evanovich
 Janet Fitch
-Janet Valade
+Jane B. Mason
 Ricardo Piglia
 Richard Adams
 Richard A. Knaak
@@ -394,7 +412,6 @@ Jack Finney
 Jack Kerouac
 Jack Vance
 Bill Bryson
-Bill Richardson
 Bill Watterson
 Kazuo Ishiguro
 Autorul Brian Azzarello nu face parte din recomandarile tale.
@@ -407,7 +424,7 @@ Ray Bradbury
 Gifts - Annals of the Western Shore no 1
 Niciun autor gasit.
 Autorul David Mamet nu face parte din recomandarile tale.
-Wolf-Speaker - Immortals no 2
+Nicio carte gasita.
 Robert A. Heinlein
 Robert B. Parker
 Robert Crais
@@ -443,17 +460,16 @@ Cecil Adams
 T.A. Barron
 Jack Finney
 Star Wars. Episode I - Die dunkle Bedrohung
-My War Gone by I Miss It So
 My War Gone By I Miss It So
-Donald A. Mackenzie
 Donald A. Norman
 Donald Goines
+Donald Spoto
 Nicole Krauss
 Dean Koontz
 Autorul Emmanuel Rhoides nu face parte din recomandarile tale.
 Nicio carte gasita.
 Informatii recomandare: Beloved, Toni Morrison, 4, 324
-Informatii recomandare: Prisoner's Dilemma, Richard Powers, 4, 352
+Autorul Richard Powers nu face parte din recomandarile tale.
 Informatii recomandare: Faun and Games - Xanth no 21, Piers Anthony, 4, 352
 Informatii recomandare: The Good Soldier, Ford Madox Ford, 4, 256
 Autorul Marc Eliot nu face parte din recomandarile tale.
@@ -462,14 +478,14 @@ Autorul Rumiko Takahashi nu face parte din recomandarile tale.
 Cartea Slowness nu exista in recomandarile tale.
 Autorul Rachel Cohn nu face parte din recomandarile tale.
 Informatii recomandare: Untouchable, Mulk Raj Anand, 4, 160
-Informatii recomandare: The Liars' Club, Mary Karr, 4, 320
+Autorul Mary Karr nu face parte din recomandarile tale.
 Autorul Astrid Lindgren nu face parte din recomandarile tale.
 Informatii recomandare: The MacMillan Bible Atlas, Yohanan Aharoni, 4, 215
 Informatii recomandare: The Bacchae of Euripides - A Communion Rite, Wole Soyinka, 4, 128
 Informatii recomandare: Peter Pan in Scarlet, Geraldine McCaughrean, 4, 307
 Informatii recomandare: The Mysteries of Pittsburgh, Michael Chabon, 4, 320
 Autorul Marsha Collier nu face parte din recomandarile tale.
-Informatii recomandare: Shakespeare's Hamlet, William Shakespeare, 4, 240
+Cartea Shakespeare's Hamlet nu exista in recomandarile tale.
 Informatii recomandare: Collected Shorter Fiction - Volume I, Leo Tolstoy, 4, 848
 Autorul Greg Taylor nu face parte din recomandarile tale.
 Informatii recomandare: The Wedding Night, Jayne Ann Krentz, 3, 256
@@ -480,7 +496,7 @@ Informatii recomandare: The Great World, David Malouf, 4, 336
 Autorul David Eddings nu face parte din recomandarile tale.
 Informatii recomandare: The Filth, Grant Morrison, 4, 320
 Informatii recomandare: Beyond Seduction - Beyond Duet no 2, Emma Holly, 4, 297
-Informatii recomandare: Where the Sidewalk Ends - Poems and Drawings, Shel Silverstein, 4, 192
+Cartea Where the Sidewalk Ends - Poems and Drawings nu exista in recomandarile tale.
 Informatii recomandare: Homage to Catalonia, George Orwell, 4, 232
 Informatii recomandare: A Clockwork Orange - Stage Play, Anthony Burgess, 4, 51
 Autorul Patricia Cornwell nu face parte din recomandarile tale.
@@ -497,14 +513,14 @@ Autorul Donna Woolfolk Cross nu face parte din recomandarile tale.
 Autorul Stephen R. Donaldson nu face parte din recomandarile tale.
 Autorul Eugene O'Neill nu face parte din recomandarile tale.
 Informatii recomandare: The Artist of the Missing, Paul La Farge, 4, 256
-Informatii recomandare: Runaways Vol. 1 - Pride and Joy, Brian K. Vaughan, 4, 144
+Autorul Brian K. Vaughan nu face parte din recomandarile tale.
 Autorul Kingdome 19 nu face parte din recomandarile tale.
-Informatii recomandare: Where the Sidewalk Ends - Poems and Drawings, Shel Silverstein, 4, 192
+Cartea Where the Sidewalk Ends - Poems and Drawings nu exista in recomandarile tale.
 Cartea More Plums in One - Stephanie Plum no 4-6 nu exista in recomandarile tale.
 Autorul Barry Lopez nu face parte din recomandarile tale.
-Informatii recomandare: Bellwether, Connie Willis, 4, 248
+Autorul Connie Willis nu face parte din recomandarile tale.
 Cartea Can't Win With You 1 nu exista in recomandarile tale.
-Informatii recomandare: Shakespeare's Hamlet, William Shakespeare, 4, 240
+Cartea Shakespeare's Hamlet nu exista in recomandarile tale.
 Autorul Brian Sibley nu face parte din recomandarile tale.
 Informatii recomandare: The Princess Bride, William Goldman, 4, 456
 Autorul Anne Tyler nu face parte din recomandarile tale.
@@ -535,7 +551,7 @@ How We Are Hungry
 McSweeney's no 11
 McSweeney's no 19
 Autorul Larry McMurtry nu face parte din recomandarile tale.
-Undead and Unwed - Undead no 1
+Autorul MaryJanice Davidson nu face parte din recomandarile tale.
 Li Po and Tu Fu - Poems
 The Paradox of Choice - Why More Is Less
 Autorul Daniel Quinn nu face parte din recomandarile tale.
@@ -553,7 +569,6 @@ Blood Moon Over Bengal
 First Things First
 Principle-Centered Leadership
 Dear Peter Rabbit
-I Love Saturdays y domingos
 Autorul Elliott Currie nu face parte din recomandarile tale.
 Autorul Antony Johnston nu face parte din recomandarile tale.
 Autorul Miyamoto Musashi nu face parte din recomandarile tale.
@@ -565,7 +580,7 @@ Autorul W.G. Sebald nu face parte din recomandarile tale.
 Return of the Straight Dope
 The Great Good Thing - The Sylvie Cycle no 1
 Flowers - Eyewitness Explorers
-Ahab's Wife or The Star-Gazer
+Autorul Sena Jeter Naslund nu face parte din recomandarile tale.
 Blackberry Wine
 Five Quarters of the Orange
 The French Kitchen - A Cookbook
@@ -573,12 +588,11 @@ The Woman Warrior
 Midnight Predator
 One Day in the Life of Ivan Denisovich
 Led Astray - Hellraisers no 1
-Words of Silk
 Curse Of The Kings
 Lullaby Town - Elvis Cole no 3
 The Irish Anatomist - A Study of Flann O'Brien
 Bioinformatics - Sequence and Genome Analysis
-The Best American Travel Writing 2006
+Autorul Tim Cahill nu face parte din recomandarile tale.
 Autorul Betty Friedan nu face parte din recomandarile tale.
 Autorul Casey Loe nu face parte din recomandarile tale.
 Autorul Stefano Benni nu face parte din recomandarile tale.
@@ -615,23 +629,23 @@ Cartea Naked Empire - Sword of Truth no 8 nu exista in recomandarile tale.
 Autorul Joan Holub nu face parte din recomandarile tale.
 Cartea Death of an Addict - Hamish Macbeth no 15 nu exista in recomandarile tale.
 Cartea See How They Run nu exista in recomandarile tale.
-Cartea Fell nu exista in recomandarile tale.
+Autorul Warren Ellis nu face parte din recomandarile tale.
 Informatii recomandare: Dostoevsky Kierkegaard Nietzsche and Kafka, William Hubben, 4, 192
 Informatii recomandare: The Tenth Circle, Jodi Picoult, 4, 416
 Cartea JLA - Earth 2 nu exista in recomandarile tale.
 Cartea Strong Motion nu exista in recomandarile tale.
 Informatii recomandare: Orion - Orion no 1, Ben Bova, 4, 432
-Informatii recomandare: A Devilish Dilemma, Judith A. Lansdowne, 4, 288
+Autorul Judith A. Lansdowne nu face parte din recomandarile tale.
 Cartea The Brothers Karamazov nu exista in recomandarile tale.
 Autorul Mario Puzo nu face parte din recomandarile tale.
-Informatii recomandare: The Ivy Tree, Carolyn Brown, 4, 192
+Autorul Carolyn Brown nu face parte din recomandarile tale.
 Informatii recomandare: North of South - An African Journey, Shiva Naipaul, 4, 352
 Informatii recomandare: In Wonderland, Knut Hamsun, 4, 185
 Autorul Louis P. Pojman nu face parte din recomandarile tale.
 Informatii recomandare: Resurrection, Leo Tolstoy, 4, 562
 Autorul Alan Moore nu face parte din recomandarile tale.
 Autorul Robert Goddard nu face parte din recomandarile tale.
-Informatii recomandare: Siddhartha, Hermann Hesse, 4, 129
+Autorul Hermann Hesse nu face parte din recomandarile tale.
 Informatii recomandare: Retrospective 1964-1984, H.R. Giger, 4, 112
 Informatii recomandare: Unearthly Neighbors, Chad Oliver, 4, 208
 Informatii recomandare: Call of the Moon, Ronda Thompson, 4, 352
@@ -660,7 +674,7 @@ Autorul Arthur C. Clarke nu face parte din recomandarile tale.
 Autorul Jane Leslie Conly nu face parte din recomandarile tale.
 Autorul Dale Brown nu face parte din recomandarile tale.
 Fun Home - A Family Tragicomic
-PHP and MySQL For Dummies
+Autorul Janet Valade nu face parte din recomandarile tale.
 The Complete Green Letters
 Autorul Andrew James McLean nu face parte din recomandarile tale.
 World Atlas of Great Apes and their Conservation
@@ -670,7 +684,7 @@ The Hedge Knight - The Tales of Dunk and Egg no 1
 Tal-Botvinnik 1960
 Autorul Brian D. McLaren nu face parte din recomandarile tale.
 Autorul Marguerite Henry nu face parte din recomandarile tale.
-Jesus Freaks
+Autorul Andre Duza nu face parte din recomandarile tale.
 The Good Soldier
 The Bear and the Dragon - John Clark no 3
 Where the Heart Is
@@ -686,7 +700,7 @@ Informatii recomandare: Time and Again - Time no 1, Jack Finney, 4, 399
 Informatii recomandare: Look Homeward Angel, Thomas Wolfe, 4, 644
 Informatii recomandare: The Trial of Henry Kissinger, Christopher Hitchens, 4, 161
 Cartea The Art of Happiness nu exista in recomandarile tale.
-Informatii recomandare: HTML XHTML and CSS - Visual Quickstart Guide, Elizabeth Castro, 4, 456
+Cartea HTML XHTML and CSS - Visual Quickstart Guide nu exista in recomandarile tale.
 Cartea Selected Poems of Herman Melville nu exista in recomandarile tale.
 Cartea Flatland nu exista in recomandarile tale.
 Cartea Boys' Life and Search and Destroy nu exista in recomandarile tale.
@@ -696,10 +710,10 @@ Cartea The Chronicles of Narnia CD Box Set nu exista in recomandarile tale.
 Informatii recomandare: Under the Net, Iris Murdoch, 4, 252
 Informatii recomandare: Hope Springs Eternal - Prairie River no 4, Kristiana Gregory, 4, 176
 Cartea Sk8er Boy - First Kiss Club no 1 nu exista in recomandarile tale.
-Informatii recomandare: Any Woman's Blues, Erica Jong, 4, 362
+Cartea Any Woman's Blues nu exista in recomandarile tale.
 Informatii recomandare: That Was Then This Is Now, S.E. Hinton, 4, 159
-Informatii recomandare: The Histories, Herodotus, 4, 716
-Informatii recomandare: Man Walks Into a Room, Nicole Krauss, 3, 248
+Cartea The Histories nu exista in recomandarile tale.
+Cartea Man Walks Into a Room nu exista in recomandarile tale.
 Informatii recomandare: Plain Truth, Jodi Picoult, 4, 405
 Informatii recomandare: The Turn of the Screw, Henry James, 3, 386
 Cartea Passage nu exista in recomandarile tale.
@@ -746,9 +760,9 @@ Geoffrey Chaucer
 Georges Bataille
 Georges Simenon
 Niciun autor gasit.
-Rachel Klein
 Ralph Ellison
 Ramsey Campbell
+Randy Alcorn
 Niciun autor gasit.
 Michael A. Stackpole
 Michael Barber
@@ -757,8 +771,8 @@ Alain de Botton
 Alan Brennert
 Alan Dean Foster
 Judd Winick
-Judith A. Lansdowne
 Judi Barrett
+Judy Blume
 Luis Fernando Verissimo
 Geoffrey Chaucer
 Markus Zusak
@@ -770,11 +784,12 @@ Paola Nanni-Tate
 Madeleine L'Engle
 Malcolm Godwin
 Malvina G. Vogel
-Rachel Klein
 Ralph Ellison
 Ramsey Campbell
+Randy Alcorn
 Niciun autor gasit.
 Niciun autor gasit.
+Cartea Divorcio a la Francesa - Le Divorce nu exista in recomandarile tale.
 Informatii recomandare: Plants Bite Back! - DK Readers, Richard Platt, 4, 48
 Autorul Ruth S. Noel nu face parte din recomandarile tale.
 Autorul Hesiod nu face parte din recomandarile tale.
@@ -805,7 +820,6 @@ Dairy Queen - Dairy Queen no 1
 Meditations
 The Italian Girl - Ackroyd and Thackeray no 5
 The Pursuit of History
-Candide and Other Stories - World's Classics
 Philosophical Dictionary
 Die Mandarins von Paris
 Autorul Sean McMullen nu face parte din recomandarile tale.
@@ -816,11 +830,10 @@ Grizzwold
 Mountain of Black Glass - Otherland no 3
 Shadowmarch - Shadowmarch no 1
 Stone of Farewell - Memory Sorrow and Thorn no 2
-To Ride Hell's Chasm
 Traitor's Knot - Wars of Light and Shadow no 7
 The Winthrop Woman
 Ghosts
-Writings on Art
+Autorul Mark Rothko nu face parte din recomandarile tale.
 The Great Good Thing - The Sylvie Cycle no 1
 Autorul Rachel Caine nu face parte din recomandarile tale.
 The Hour Before Dark
@@ -831,14 +844,13 @@ Autorul James Lee Burke nu face parte din recomandarile tale.
 The Rock That Is Higher - Story as Truth
 The March
 Margaret Hodges
-Margaret MacMillan
 Margaret Weis
 Haruki Murakami
 A Year Down Yonder - A Long Way from Chicago no 2
 Dr. Seuss
 Autorul Anna Quindlen nu face parte din recomandarile tale.
 Nicio carte gasita.
-HTML XHTML and CSS - Visual Quickstart Guide
+Autorul Elizabeth Castro nu face parte din recomandarile tale.
 Market Forces
 Autorul Nathaniel Philbrick nu face parte din recomandarile tale.
 Autorul Shelby Foote nu face parte din recomandarile tale.
@@ -854,8 +866,8 @@ Autorul Howard Chaykin nu face parte din recomandarile tale.
 Autorul Chuck Palahniuk nu face parte din recomandarile tale.
 A Light in the Attic
 Gail Godwin
-Gardner Dozois
 Gary L. Hardcastle
+Gary Russell
 Autorul William S. Burroughs nu face parte din recomandarile tale.
 Niciun autor gasit.
 The Irish Anatomist - A Study of Flann O'Brien
@@ -867,7 +879,7 @@ Patricia A. McKillip
 Patricia D. Netzley
 Patricia Hall
 Nancy Osa
-Forever . . .
+Nicio carte gasita.
 Robb Forman Dew
 Robert A. Heinlein
 Robert B. Parker
@@ -879,7 +891,6 @@ Nicio carte gasita.
 Steve Eddy
 Steve Hamilton
 Steve Martin
-Hermann Hesse
 Herman Melville
 Herman Wouk
 Who Will Run the Frog Hospital?
@@ -889,23 +900,21 @@ Isaac Asimov
 Isabel Allende
 Isabel Miller
 Monkeewrench - Monkeewrench no 1
-V.S. Naipaul
+Niciun autor gasit.
 The Crimson Petal and the White
-CliffsNotes on Heller's Catch-22
 CliffsNotes on Tolstoy's Anna Karenina
 Cliffs Notes on Shakespeare's Hamlet
 Eudora Welty - Photographs
 Red Message
 An Introduction to Old Norse
 The Night Gardener
-The Histories
+Nicio carte gasita.
 Colleen McCullough
-Connie Willis
 Cornelia Funke
 Niciun autor gasit.
-Rachel Klein
 Ralph Ellison
 Ramsey Campbell
+Randy Alcorn
 Stan Jones
 Stephanie Laurens
 Stephenie Meyer
@@ -919,7 +928,7 @@ Emma Donoghue
 Emma Holly
 Julian Barnes
 Julian Caldecott
-Julian May
+Julia Alvarez
 Robert A. Heinlein
 Robert B. Parker
 Robert Crais
@@ -946,9 +955,9 @@ Annie Proulx
 Karen Armstrong
 Karen Harper
 Karen Hesse
-Alain de Botton
 Alan Brennert
 Alan Dean Foster
+Alan Hollinghurst
 Jeanette Winterson
 Jean-Jacques Rousseau
 Jean-Paul Sartre
@@ -960,11 +969,11 @@ Lance Armstrong
 Laura Esquivel
 Niciun autor gasit.
 Lois Lowry
-Lorna Landvik
 Lorrie Moore
+Louisa May Alcott
 Thomas Bernhard
-Thomas E. Skidmore
 Thomas Harris
+Thomas Pynchon
 David Bodanis
 David Burnie
 David Eddings
@@ -996,9 +1005,9 @@ Tananarive Due
 Chad Oliver
 Chaim Potok
 Charles A. Coulombe
-Rachel Klein
 Ralph Ellison
 Ramsey Campbell
+Randy Alcorn
 Joanne Harris
 Michael A. Stackpole
 Michael Barber
@@ -1014,11 +1023,11 @@ John Banville
 John Barton
 John Boslough
 Madeleine L'Engle
-Malcolm Godwin
 Malvina G. Vogel
+Mao Zedong
 Shana Abe
 Shannon Holmes
-Sharon Green
+Shauna Singh Baldwin
 Autorul Ken Kesey nu face parte din recomandarile tale.
 Informatii recomandare: Field Guide to Home Buying in America, Mark LeVine, 3, 256
 Informatii recomandare: I Hope They Serve Beer in Hell - Tucker Max no 1, Tucker Max, 4, 288
@@ -1035,14 +1044,14 @@ Cartea 1st to Die - Women's Murder Club no 1 nu exista in recomandarile tale.
 Autorul Ann Major nu face parte din recomandarile tale.
 Cartea House of the Sleeping Beauties and Other Stories nu exista in recomandarile tale.
 Cartea The Nice and the Good nu exista in recomandarile tale.
-Cartea Inside Job nu exista in recomandarile tale.
+Autorul Connie Willis nu face parte din recomandarile tale.
 Autorul Janet S. Wong nu face parte din recomandarile tale.
 Autorul Mark Smylie nu face parte din recomandarile tale.
 Autorul Oscar Hijuelos nu face parte din recomandarile tale.
 Autorul Lynda La Plante nu face parte din recomandarile tale.
 Informatii recomandare: A Christmas Carol - Great Illustrated Classics, Malvina G. Vogel, 4, 238
 Informatii recomandare: Sentimental Education, Gustave Flaubert, 4, 460
-Informatii recomandare: Shakespeare's Hamlet, William Shakespeare, 4, 240
+Cartea Shakespeare's Hamlet nu exista in recomandarile tale.
 Cartea Purgatorio - La Divina Commedia no 2 nu exista in recomandarile tale.
 Cartea The Wicked Day - Arthurian Saga no 4 nu exista in recomandarile tale.
 Informatii recomandare: The Inner Sanctum, Stephen W. Frey, 4, 448
@@ -1051,11 +1060,15 @@ Informatii recomandare: The Custom of the Country, Edith Wharton, 4, 370
 Cartea The Kingdom of God Is Within You nu exista in recomandarile tale.
 Autorul Wade Davis nu face parte din recomandarile tale.
 Informatii recomandare: Bouvard and Pecuchet, Gustave Flaubert, 4, 328
-Cartea Lady of Quality nu exista in recomandarile tale.
+Autorul Georgette Heyer nu face parte din recomandarile tale.
 Informatii recomandare: Meditations, Marcus Aurelius, 4, 303
+Cartea The Great Gatsby nu exista in recomandarile tale.
+Cartea Candide and Other Stories - World's Classics nu exista in recomandarile tale.
+Cartea Modern Classics of Science Fiction nu exista in recomandarile tale.
+Cartea The Chronicles of Riddick nu exista in recomandarile tale.
 Thomas Bernhard
-Thomas E. Skidmore
 Thomas Harris
+Thomas Pynchon
 Bob Smith
 Bob Tarte
 Jeanette Winterson
@@ -1065,11 +1078,11 @@ Victoria Holt
 Vincent van Gogh
 Virgil
 Madeleine L'Engle
-Malcolm Godwin
-Malvina G. Vogel
-Christina Schwarz
+Mao Zedong
+Marcella Hazan
 Christine Feehan
 Christopher Hitchens
+Christopher Marlowe
 Noah Eli Gordon
 Noam Chomsky
 Iain M. Banks
@@ -1097,13 +1110,13 @@ John Banville
 John Barton
 John Boslough
 Niciun autor gasit.
-Edmund Spenser
+Niciun autor gasit.
 Pearl S. Buck
 Penelope Fitzgerald
 Peter Abrahams
 Madeleine L'Engle
-Malcolm Godwin
-Malvina G. Vogel
+Mao Zedong
+Marcella Hazan
 Cartea The Milagro Beanfield War nu exista in recomandarile tale.
 Cartea The Portable Thomas Jefferson nu exista in recomandarile tale.
 Cartea Midnight in the Garden of Good and Evil nu exista in recomandarile tale.
@@ -1136,25 +1149,29 @@ Informatii recomandare: V.S. Naipaul, Bruce Alvin King, 2, 240
 Cartea Intimate Journals nu exista in recomandarile tale.
 Cartea A Stranger Came Ashore nu exista in recomandarile tale.
 Cartea Orientalism nu exista in recomandarile tale.
+Cartea Corroborating Evidence - The Black Dahlia Murder nu exista in recomandarile tale.
+Cartea Sense and Sensibility nu exista in recomandarile tale.
+Cartea The Amber Spyglass - His Dark Materials no 3 nu exista in recomandarile tale.
+Cartea The Possessed nu exista in recomandarile tale.
 Cait London
 Candace Bushnell
 Carla Lynn Stockton
-Donald A. Mackenzie
 Donald A. Norman
 Donald Goines
+Donald Spoto
 Tucker Max
 Nicole Krauss
 Octavio Paz
 Niciun autor gasit.
 Madeleine L'Engle
-Malcolm Godwin
-Malvina G. Vogel
+Mao Zedong
+Marcella Hazan
 Abigail Thomas
 Adam Gopnik
 Adam Hochschild
 Carole Marsh
 Caroline B. Cooney
-Carolyn Brown
+Carol Dommermuth-Costa
 Niciun autor gasit.
 Brad Meltzer
 Brian Herbert
@@ -1180,14 +1197,13 @@ Marcel Proust
 Marcus Aurelius
 Brian Herbert
 Brian Jacques
-Brian K. Vaughan
 Niciun autor gasit.
 Lee Charles Kelley
 Lee Child
 Lee Seldes
 Madeleine L'Engle
-Malcolm Godwin
-Malvina G. Vogel
+Mao Zedong
+Marcella Hazan
 Ricardo Piglia
 Richard Adams
 Richard A. Knaak
@@ -1196,7 +1212,7 @@ William Faulkner
 William Gaddis
 Teddy Slater
 Tedd Arnold
-Ted Dekker
+Tennessee Williams
 Michael A. Stackpole
 Michael Barber
 Michael Chabon
@@ -1205,7 +1221,7 @@ Noam Chomsky
 Noel Streatfeild
 Georges Bataille
 Georges Simenon
-Georgette Heyer
+George Bernard Shaw
 Peter Abrahams
 Peter Hamilton
 Peter Handke
@@ -1234,9 +1250,9 @@ Salman Rushdie
 Rebecca J. Donatelle
 Rebecca Solnit
 Niciun autor gasit.
-Alice Hoffman
 Alice Medrich
 Alice Munro
+Alison Bechdel
 Barbara Conklin
 Barbara Nadel
 Barbara Park
@@ -1248,6 +1264,9 @@ Marcus Aurelius
 Ford Madox Ford
 Francine Pascal
 Francine Prose
+Cartea Modern Latin America nu exista in recomandarile tale.
+Cartea A Man of the People nu exista in recomandarile tale.
+Cartea Jesus Freaks nu exista in recomandarile tale.
 Seamus Heaney
 Seawolf Class - Silent Service no 3
 Eisenhower - Soldier and President
@@ -1284,7 +1303,6 @@ Pictures by J.R.R. Tolkien
 Poems From The Hobbit
 The Annotated Hobbit
 The Letters of J.R.R. Tolkien
-The Lord of the Rings
 The Monsters and the Critics and Other Essays
 The Silmarillion
 The Silmarillion Volume 3
@@ -1294,11 +1312,14 @@ The Great Ape Project - Equality Beyond Humanity
 The Everyday I Ching
 Te Kaihau - The Windeater
 Autorul Michael Munn nu face parte din recomandarile tale.
-Divorcio a la Francesa - Le Divorce
 Le Divorce
 Autorul D.H. Lawrence nu face parte din recomandarile tale.
 Liberty Before Liberalism
 The Return of Grand Theory in the Human Sciences
+Cartea To Ride Hell's Chasm nu exista in recomandarile tale.
+Cartea Modern Latin America nu exista in recomandarile tale.
+Cartea PHP and MySQL For Dummies nu exista in recomandarile tale.
+Cartea The Chronicles of Riddick nu exista in recomandarile tale.
 Pearl S. Buck
 Peggy Parish
 Penelope Fitzgerald
@@ -1309,17 +1330,17 @@ Chris Abani
 Chris Claremont
 Chris Offutt
 Roald Dahl
-Donald A. Mackenzie
 Donald A. Norman
 Donald Goines
-Judith A. Lansdowne
+Donald Spoto
+Niciun autor gasit.
 Swann's Way - In Search of Lost Time no 1
 Nicio carte gasita.
 Autorul Wanda Sykes nu face parte din recomandarile tale.
 Eudora Welty - Photographs
 Emma Donoghue
 Harry Crews
-The Chronicles of Riddick
+Nicio carte gasita.
 Jeanette Winterson
 Niciun autor gasit.
 Niciun autor gasit.
@@ -1331,7 +1352,7 @@ Kevin Henkes
 Kevin Smith
 Kevin Walsh
 Niciun autor gasit.
-Photography's Other Histories
+Autorul Christopher Pinney nu face parte din recomandarile tale.
 Fire Ice - NUMA Files no 3
 The Philosophy of History
 This Boy's Life
@@ -1359,16 +1380,16 @@ Dale Carnegie
 Emily Bronte
 Emily Dickinson
 Emily Giffin
-Nicio carte gasita.
+Autorul Julie Kenner nu face parte din recomandarile tale.
 Chad Oliver
 Chaim Potok
 Charles A. Coulombe
-China and Japan - Myths and Legends
-Jane Austen
+Autorul Donald A. Mackenzie nu face parte din recomandarile tale.
 Jane B. Mason
 Jane Chance
+Jane Feather
 Niciun autor gasit.
-Nicio carte gasita.
+Autorul Jane Austen nu face parte din recomandarile tale.
 Barbara Conklin
 Barbara Nadel
 Barbara Park
@@ -1393,9 +1414,9 @@ Barbara Park
 Anthony Bourdain
 Anthony Burgess
 Anthony D. Pellegrini
-MaryJanice Davidson
 Mary B. Collins
 Mary Doria Russell
+Mary Higgins Clark
 Amelia Atwater-Rhodes
 Amy Krouse Rosenthal
 Amy Tan
@@ -1423,21 +1444,21 @@ Joseph A. Tainter
 Joseph Bruchac
 Joseph Conrad
 Denis Diderot
-Denis Johnson
 Dennis Lehane
+Dennis L. Kasper
 Jack Du Brul
 Jack Finney
 Jack Kerouac
-Alice Hoffman
 Alice Medrich
 Alice Munro
+Alistair MacLeod
 Ed McBain
 Erica Jong
 Erich Fromm
 Eric Carle
 Pablo Neruda
 Paola Cavalieri
-Paola Nanni-Tate
+Patricia A. McKillip
 Iain M. Banks
 Iain Pears
 Dai Sijie
@@ -1449,16 +1470,16 @@ Edith Hamilton
 Edgar Allan Poe
 Edgar Rice Burroughs
 Edith Hamilton
-Donald A. Mackenzie
 Donald A. Norman
 Donald Goines
+Donald Spoto
 Herbert Asbury
-Hermann Hesse
 Herman Melville
+Herman Wouk
 Niciun autor gasit.
 Stan Jones
 Stephanie Laurens
-Stephenie Meyer
+Stephen Briggs
 Queen Latifah
 Quentin Skinner
 Pearl S. Buck
@@ -1469,7 +1490,7 @@ Erich Fromm
 Eric Carle
 Madeleine L'Engle
 Maile Meloy
-Malcolm Godwin
+Mao Zedong
 Lonely Planet
 Joanne Harris
 Joan Didion
@@ -1477,19 +1498,19 @@ Joan Elizabeth Klingel Ray
 Jeanette Winterson
 Jean-Jacques Rousseau
 Jean-Paul Sartre
-Jeffrey Ford
+Niciun autor gasit.
 Gail Godwin
-Gardner Dozois
 Garth Ennis
+Gary L. Hardcastle
 Markus Zusak
 Mark Bowden
 Mark Dunn
 Philippa Gregory
-Philip Dutre
 Philip K. Dick
+Philip Plait
 Shana Abe
 Shannon Holmes
-Sharon Green
+Sharyn McCrumb
 Jack Du Brul
 Jack Finney
 Jack Kerouac
@@ -1519,13 +1540,13 @@ Niciun autor gasit.
 Michael A. Stackpole
 Michael Barber
 Michael Chabon
-Wallace Stegner
 Walter Isaacson
 Walt Disney Company
-Deloris Jordan
+Wang Wei
+Niciun autor gasit.
 Madeleine L'Engle
 Maile Meloy
-Malcolm Godwin
+Mao Zedong
 Tobias Wolff
 Tomie dePaola
 Tomo Matsumoto
@@ -1535,7 +1556,7 @@ Nicio carte gasita.
 Come a Stranger - Tillerman Cycle no 5
 Oath of Swords - War God no 1
 Nicio carte gasita.
-Der Gesang Des Meeres. Beach Music
+Nicio carte gasita.
 Nicio carte gasita.
 Shadow Dance - Buchanan-Renard no 6
 Nicio carte gasita.
@@ -1543,24 +1564,23 @@ Star Trek Voyager Companion
 Nicio carte gasita.
 Different Seasons
 Martin Chuzzlewit
-Freak the Mighty - Freak The Mighty no 1
+Nicio carte gasita.
 Nicio carte gasita.
 Nicio carte gasita.
 Nicio carte gasita.
 Sherlock Holmes - A Baker Street Dozen
 The Pelican Brief
-China and Japan - Myths and Legends
+Nicio carte gasita.
 Nicio carte gasita.
 Nicio carte gasita.
 Hot Springs - Earl Swagger no 1
 Air Gear Vol. 4 - Air Gear no 4
 Nicio carte gasita.
-Modern Classics of Science Fiction
-Modern Latin America
+Nicio carte gasita.
 Nicio carte gasita.
 The Second World War
-The Secretary of Dreams Volume One
 The Secret History
+The Secret Swan
 Nicio carte gasita.
 Nicio carte gasita.
 Nicio carte gasita.
@@ -1570,7 +1590,7 @@ A Fairly Honourable Defeat
 Uzumaki - Spiral into Horror Vol. 2.
 Theater Shoes - Shoes no 4
 Them - Adventures with Extremists
-There Was a Cold Lady Who Swallowed Some Snow!
+They Cage the Animals at Night
 Trapped - Mississippi no 2
 Billy Budd Sailor and Other Uncompleted Writings
 Midaq Alley
@@ -1595,7 +1615,7 @@ The Abyss
 The Accidental Time Machine
 Nicio carte gasita.
 Nicio carte gasita.
-Curries Without Worries
+Nicio carte gasita.
 Nicio carte gasita.
 Nicio carte gasita.
 Enquiry

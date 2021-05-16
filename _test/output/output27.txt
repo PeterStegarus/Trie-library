@@ -308,7 +308,7 @@ Autorul Michael H. Jackson nu face parte din recomandarile tale.
 Autorul Roger Ebert nu face parte din recomandarile tale.
 Autorul Laura Dave nu face parte din recomandarile tale.
 Autorul Reinhold Messner nu face parte din recomandarile tale.
-Tuck Everlasting
+Autorul Natalie Babbitt nu face parte din recomandarile tale.
 Autorul Alec MacLellan nu face parte din recomandarile tale.
 Autorul Cornelia Funke nu face parte din recomandarile tale.
 Autorul Robert Graves nu face parte din recomandarile tale.
@@ -434,9 +434,9 @@ Informatii recomandare: Blood and Smoke, Stephen King, 4, 4
 Informatii recomandare: The Grapes of Wrath, John Steinbeck, 4, 464
 Cartea Secrets Lies and Democracy nu exista in recomandarile tale.
 Aldous Huxley
-Joseph Blotner
 Joseph Bruchac
 Joseph Frank
+Joseph Heller
 Jackie French Koller
 Jackson J. Benson
 Jack Du Brul
@@ -477,9 +477,9 @@ Jack Du Brul
 Niciun autor gasit.
 Niciun autor gasit.
 Niciun autor gasit.
-Joseph Blotner
 Joseph Bruchac
 Joseph Frank
+Joseph Heller
 Shana Abe
 Sharon Green
 Sigrid Undset
@@ -492,8 +492,8 @@ Hermann Hesse
 Herman Melville
 Herman Wouk
 Pablo Neruda
-Pamela F. Service
 Patricia Cornwell
+Patrick McGrath
 Juliette De Bairacli Levy
 Juliet Marillier
 Julie Aigner-Clark
@@ -541,6 +541,7 @@ Laura Esquivel
 Jackie French Koller
 Jackson J. Benson
 Jack Du Brul
+Cartea Scenes of Clerical Life nu exista in recomandarile tale.
 The Hidden Family - The Merchant Princes no 2
 Autorul Amy Taubin nu face parte din recomandarile tale.
 Autorul Terry Moore nu face parte din recomandarile tale.
@@ -588,7 +589,7 @@ Autorul Katherine Ramsland nu face parte din recomandarile tale.
 Morgan's Run
 The First Man in Rome - Masters of Rome no 1
 Autorul Stuart Gilbert nu face parte din recomandarile tale.
-The Ethics of Authenticity
+Autorul Charles Taylor nu face parte din recomandarile tale.
 Autorul Edward Albee nu face parte din recomandarile tale.
 Autorul Geraldine McCaughrean nu face parte din recomandarile tale.
 Sudden Fiction - American Short-Short Stories
@@ -646,13 +647,13 @@ Cecily von Ziegesar
 Celeste Bradley
 Erich Auerbach
 Erich Fromm
-Eric Hansen
+Eric Tyson
 Abolqasem Ferdowsi
 Abraham Lincoln
 Adam Gopnik
-Jackie French Koller
 Jackson J. Benson
 Jack Du Brul
+Jack Kerley
 Ricardo Piglia
 Richard Adams
 Richard A. Hawley
@@ -700,9 +701,9 @@ John Berendt
 Janette Oke
 Janet Evanovich
 Janet Fitch
-Jackie French Koller
 Jackson J. Benson
 Jack Du Brul
+Jack Kerley
 Yasunari Kawabata
 Kaho Miyasaka
 Kaoru Mori
@@ -724,9 +725,9 @@ Terry Deary
 Niciun autor gasit.
 Niciun autor gasit.
 Tananarive Due
-Jackie French Koller
 Jackson J. Benson
 Jack Du Brul
+Jack Kerley
 Giada De Laurentiis
 Giles Andreae
 Giuliano Hazan
@@ -735,8 +736,8 @@ Simon Schama
 Simon Wells
 Carl Hiaasen
 Georges Bataille
-Georges Perec
 Georges Simenon
+Georgette Heyer
 Jill Colella
 Margaret Atwood
 Margaret Hodges
@@ -764,12 +765,12 @@ Simon Wells
 Barbara Conklin
 Barbara Fairchild
 Barbara Kerley
-Michaela Muntean
 Michael Barber
 Michael Chabon
+Michael Connelly
 Claire Brennan
 Claire McNab
-Claire Messud
+Clement Greenberg
 Kenneth H. Blanchard
 Tacitus
 Takashi Hashiguchi
@@ -785,15 +786,14 @@ Niciun autor gasit.
 Salman Rushdie
 Samuel Richardson
 Sandra Brown
-Eric Hansen
 Eric Tyson
 Niciun autor gasit.
-Jackie French Koller
 Jackson J. Benson
 Jack Du Brul
+Jack Kerley
 Ron Chernow
 Ron Louis
-Ron Miller
+Ron Rash
 Abolqasem Ferdowsi
 Abraham Lincoln
 David Almond
@@ -817,12 +817,12 @@ Dalai Lama XIV
 Donald A. Mackenzie
 Donald Barthelme
 Donald J. Crump
-Jackie French Koller
 Jackson J. Benson
 Jack Du Brul
+Jack Kerley
 Georges Bataille
-Georges Perec
 Georges Simenon
+Georgette Heyer
 M. John Harrison
 W. Somerset Maugham
 Randall Kenan
@@ -913,36 +913,36 @@ Tacitus
 Takashi Hashiguchi
 Takehiko Inoue
 Lesley Glaister
-Jackie French Koller
 Jackson J. Benson
 Jack Du Brul
+Jack Kerley
 Donald A. Mackenzie
 Donald Barthelme
 Donald J. Crump
 Johanna Hurwitz
 Johanna Rothman
 Johann Wolfgang von Goethe
-Tomie dePaola
 Tom Clancy
 Tom DeFalco
+Tom Perrotta
 Geoffrey Chaucer
 Geoffrey S. Kirk
 Georges Bataille
-Joseph Blotner
 Joseph Bruchac
 Joseph Conrad
+Joseph Frank
 Johanna Hurwitz
 Johanna Rothman
 Johann Wolfgang von Goethe
 Larry Bond
 Laura Buller
-Laura Dave
-Michaela Muntean
+Laura Driscoll
 Michael Barber
 Michael Chabon
-Jackie French Koller
+Michael Connelly
 Jackson J. Benson
 Jack Du Brul
+Jack Kerley
 Ruby Ann Boxcar
 David Almond
 David A. Adler
@@ -967,15 +967,15 @@ Nicio carte gasita.
 Roberta Grobel Intrater
 Robertson Davies
 Robert Anton Wilson
-Jackie French Koller
 Jackson J. Benson
 Jack Du Brul
+Jack Kerley
 Maeve Binchy
 The Divine Comedy I - Hell
 The Divine Comedy Vol. 3 - Paradise
-Tomie dePaola
 Tom Clancy
 Tom DeFalco
+Tom Perrotta
 The Hour of the Gate - Spellsinger no 2
 Joanne Fluke
 Joanne Harris
@@ -997,7 +997,7 @@ Richard A. Hawley
 Pablo Neruda
 Paco Underhill
 Pamela Duncan Edwards
-The Wind Thief
+Autorul Judi Barrett nu face parte din recomandarile tale.
 Nicio carte gasita.
 Nick Hornby
 Polar Shift - NUMA Files no 6
@@ -1005,15 +1005,15 @@ J.R.R. Tolkien
 J.R. Ward
 Gertrude the Great
 Everyday Pasta
-The Warrior Prophet - The Prince of Nothing no 2
+Autorul R. Scott Bakker nu face parte din recomandarile tale.
 Teresa Edgerton
 Terryl Whitlatch
 Terry Brooks
 A Random Walk Down Wall Street
 Empire of the Senseless
-Joseph Blotner
 Joseph Bruchac
 Joseph Conrad
+Joseph Frank
 Peek-a-Boo! - Babyfaces
 James Axler
 James A. Michener
@@ -1025,6 +1025,17 @@ Wilbur Smith
 Wilkie Collins
 Willa Cather
 Nicio carte gasita.
+Cartea Clive Cussler and Dirk Pitt Revealed nu exista in recomandarile tale.
+Cartea 20 000 Leagues Under the Sea nu exista in recomandarile tale.
+Cartea Seventy-Seven Clocks - Bryant and May no 3 nu exista in recomandarile tale.
+Cartea The Warrior Prophet - The Prince of Nothing no 2 nu exista in recomandarile tale.
+Cartea A Friend of the Earth nu exista in recomandarile tale.
+Cartea Letters Home nu exista in recomandarile tale.
+Cartea The Portable Chaucer nu exista in recomandarile tale.
+Cartea Master of Wolves - Mageverse no 3 nu exista in recomandarile tale.
+Cartea Magic Seeds nu exista in recomandarile tale.
+Cartea Fierce Invalids Home from Hot Climates nu exista in recomandarile tale.
+Cartea Master of Wolves - Mageverse no 3 nu exista in recomandarile tale.
 Informatii recomandare: Cigarettes Are Sublime, Richard Klein, 4, 232
 Cartea The Book of Embraces nu exista in recomandarile tale.
 Cartea Antibodies nu exista in recomandarile tale.
@@ -1032,7 +1043,7 @@ Informatii recomandare: Soldier of Sidon - Latro no 3, Gene Wolfe, 4, 320
 Cartea The Maiden - The Morland Dynasty no 8 nu exista in recomandarile tale.
 Cartea King Henry IV Part 1 nu exista in recomandarile tale.
 Cartea Philosophy of Right nu exista in recomandarile tale.
-Informatii recomandare: What the Corpse Revealed, Hugh Miller, 4, 320
+Cartea What the Corpse Revealed nu exista in recomandarile tale.
 Cartea Lysistrata nu exista in recomandarile tale.
 Cartea Evermore nu exista in recomandarile tale.
 Cartea Them - Adventures with Extremists nu exista in recomandarile tale.
@@ -1093,7 +1104,7 @@ William Anderson
 Nicio carte gasita.
 Daisy Meadows
 Dai Sijie
-Dalai Lama XIV
+Dale Brown
 Richard Adams
 Richard A. Hawley
 Richard A. Knaak

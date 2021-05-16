@@ -1,0 +1,33 @@
+/* STEGARUS Petre-Florin - 313CB */
+
+Punctaj
+Total: 135/135
+Bonus: 20/20
+
+M-am folosit de secvente de cod pe care le-am scris in temele 1 si 2.
+
+Arborele multi-cai l-am implementat ca noduri care tin informatie si un vector
+de noduri de lungime 68 care se comporta ca o cheie a nodurilor urmatoare.
+
+In main, citirea o fac linie cu linie. Extrag comanda si trimit ce a mai ramas
+din linie catre functia potrivita comenzii primite.
+
+Adaugarea unei carti intr-un arbore se face parcurgand arborele pe nodurile
+date de literele cheii (titlul/autorul) si initializarea acestora daca ele nu
+au fost inca alocate. Informatia se pune in nodul dat de ultima litera.
+
+Pentru cautari (search book, list author, search by author, cautarea cartii
+pentru a o putea sterge) parcurg arborii ca la adaugare, dar daca un nod care
+duce spre cartea cautata nu exista, ies din functii.
+
+In cazul stergerii, daca s-a gasit cartea care trebuie stearsa, daca nodurile
+care duceau spre cartea stearsa nu duc spre nicio alta carte, le sterg astfel:
+ma duc recursiv pana in nodul care tine informatia cartii. Verific daca nodul
+de dupa el e null. Daca nu e null, am terminat. Daca nodul de dupa el e null,
+sterg si nodul curent si cand o iau inapoi in recursivitate, daca s-a sters
+nodul precent si cel curent nu tine nicio carte, il sterg si pe cel curent.
+Daca arborele de carti al unui autor nu mai contine carti, procedez in mod
+similar pentru stergea autorului din arborele T2 de autori.
+
+La final, parcurg toate nodurile din toti arborii si eliberez toata memoria
+alocata la inserarea in arborele de carti si cel de autori.

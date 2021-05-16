@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "tema.h": "c",
-        "testfunctions.h": "c"
+        "testfunctions.h": "c",
+        "trie.h": "c"
     }
 }
