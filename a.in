@@ -1,7 +1,5 @@
 add_book titlu1:autor1:2:50
 add_book titlu2:autor2:5:68
 add_book title3:autor1:5:80
-search_book title
-search_book title1
-search_book title3
-search_book title2
+search_book title~
+search_book tit~
