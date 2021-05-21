@@ -1,10 +1,24 @@
 #/* STEGARUS Petre-Florin - 313CB */
 
-build: 
-	gcc -o tema3 tema.c trie.c -Wall -Wextra -Wpedantic -lm -g -std=c99
-run:
-	./tema3
+CC = gcc
 
-.PHONY : clean
-clean :
-	rm -rf tema3
+CFLAGS = -Wall -Wextra -g -std=c99
+
+SRCS = tema.c trie.c
+
+OBJS = $(SRCS:.c=.o)
+
+MAIN = tema3
+
+.PHONY: clean
+
+all:    $(MAIN)
+
+$(MAIN): $(OBJS)
+	$(CC) $(CFLAGS) -o $(MAIN) $(OBJS) $(LFLAGS) $(LIBS)
+
+.c.o:
+	$(CC) $(CFLAGS) -c $<  -o $@
+
+clean:
+	$(RM) *.o *~ $(MAIN)

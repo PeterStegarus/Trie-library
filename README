@@ -5,6 +5,7 @@ Total: 135/135
 Bonus: 20/20
 
 M-am folosit de secvente de cod pe care le-am scris in temele 1 si 2.
+Pentru Makefile am folosit secvente de la cursul PC de pe primul semestru.
 
 Arborele multi-cai l-am implementat ca noduri care tin informatie si un vector
 de noduri de lungime 68 care se comporta ca o cheie a nodurilor urmatoare.
